@@ -1,5 +1,3 @@
-## hello world ##
+This is a mini-project introducing HTML and CSS
 
-this is zuzas project
-
-hello
+I'll build simple google homepage
